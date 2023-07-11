@@ -1,0 +1,53 @@
+body{
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.continar{
+ 
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px 15px;
+}
+
+
+.display{
+    font-size: 30px;  
+    margin-bottom: 10px;
+    height: 41px;
+    width:240px;
+    border-radius: 5px;
+    box-shadow: none;
+  
+}
+
+button{
+    border-radius: 500px;
+    cursor: pointer;
+    font-size: 20px;
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin: 2px;
+    width: 60px;
+    height: 40px;
+}
+
+
+
+#equal{
+    width:130px;
+    background-color: rgb(233, 170, 54);
+}
+
+.equals{
+    color:antiquewhite;
+    background-color: rgb(233, 170, 54);
+
+}
+
